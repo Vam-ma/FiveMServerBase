@@ -11,5 +11,5 @@ files {
     'handling.meta'
 }
 
-client_script 'FiveMServerBase_Client.dll'
-server_script 'FiveMServerBase_Server.dll'
+client_script 'FiveMServerBasic.dll'
+server_script 'FiveMServerBasic_Server.dll'
